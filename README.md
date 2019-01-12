@@ -1,3 +1,10 @@
+
+INFO:
+Po pobraniu repozytorium, w folderze aplikacji w konsoli wpisać:
+npm update.
+następnie ng serv
+
+
 # PhoneNodeApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
